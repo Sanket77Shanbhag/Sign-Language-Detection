@@ -96,11 +96,11 @@ To train the sign language recognition model, follow these steps:
 
 1. Ensure you have Generated Datasets and stored in `MP_Data` (as described in the generating Data Set section).
 
-2. Run the `trainmodel.py` script to train the model:
+2. Run the `modeltrain.py` script to train the model:
 
 ```
 
-python trainmodel.py
+python modeltrain.py
 
 ```
 
